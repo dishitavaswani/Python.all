@@ -1,0 +1,20 @@
+#Operators
+a=int(input("Enter 1st number"))
+b=int(input("Enter 2nd number"))
+print(f'sum of {a}+{b} is {a+b}')
+print(f'sub of {a}-{b} is {a-b}')
+print(f'multiplication of {a}*{b} is {a*b}')
+print(f'exponential {a}**{b} is {a**b}')
+print(f'division of {a}/{b} is {a/b}')
+print(f'float of {a}//{b} is {a//b}')
+print(f'{a is b}')
+print(f'{a is not b}')
+print(f'{a>>b}')
+print(f'{a>>3}')
+print(f'{a==b>a==b}')
+print(f'{a==5}')
+print(f'{a>2 and b<6}')
+print(f'{a>2 or b<6}')
+print(f'{not(a>2 and b<6)}')
+
+
